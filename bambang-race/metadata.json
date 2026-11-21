@@ -1,0 +1,6 @@
+{
+  "name": "BAMBANG RACE",
+  "description": "3D Philippine street arcade racing game featuring Tondo, Manila, and seven original playable racers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
